@@ -1,3 +1,3 @@
 # RS06-08
 
-Please read the L8.ipynb file first
+Please read the L8.ipynb first
